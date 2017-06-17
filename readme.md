@@ -39,7 +39,7 @@ countries = _c.getMultipleCountries("BD", "US")
 
 ```go
 
-name := _c.getName("BD")
+name = _c.getName("BD")
 ```
 
 ##### Get a country dialing code
